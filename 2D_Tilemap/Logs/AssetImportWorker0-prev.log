@@ -1,0 +1,251 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.38f1 (8f5fde82e2dc) revision 9396190'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Core' Language: 'uk' Physical Memory: 8112 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity Hub\2020.3.38f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/завантаження/Auto Tiling Tutorial (Starter)/Auto Tiling (Tut)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52633
+Successfully changed project path to: D:/завантаження/Auto Tiling Tutorial (Starter)/Auto Tiling (Tut)
+D:/завантаження/Auto Tiling Tutorial (Starter)/Auto Tiling (Tut)
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 41.01 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.38f1 (8f5fde82e2dc)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity Hub/2020.3.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/завантаження/Auto Tiling Tutorial (Starter)/Auto Tiling (Tut)/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f91)
+    Vendor:   
+    VRAM:     3962 MB
+    Driver:   27.21.14.5749
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity Hub/2020.3.38f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity Hub/2020.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity Hub/2020.3.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56912
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity Hub/2020.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000856 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.35 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.556 seconds
+Domain Reload Profiling:
+	ReloadAssembly (556ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (423ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (149ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (154ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (7ms)
+				ProcessInitializeOnLoadAttributes (77ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002578 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 40.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.011 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1012ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (804ms)
+			LoadAssemblies (117ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (272ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (299ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (41ms)
+				BeforeProcessingInitializeOnLoad (55ms)
+				ProcessInitializeOnLoadAttributes (177ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.47 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2252 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 99.8 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2691.
+Total: 2.908400 ms (FindLiveObjects: 0.232500 ms CreateObjectMapping: 0.123800 ms MarkObjects: 2.487700 ms  DeleteObjects: 0.063200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Tiles/Expanded/Grass Auto_Expanded.asset
+  artifactKey: Guid(e6213b604cebfe747b66ea18818c8f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Expanded/Grass Auto_Expanded.asset using Guid(e6213b604cebfe747b66ea18818c8f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15b84f37071389bf82f410dd95547b1') in 0.078665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_12.asset
+  artifactKey: Guid(4c13dd7a324e81048baad557eb9cea67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_12.asset using Guid(4c13dd7a324e81048baad557eb9cea67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afcd38b66a0461788707ed76dfea4015') in 0.012494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_15.asset
+  artifactKey: Guid(e2de1b35ce8ef664c9998df566b51d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_15.asset using Guid(e2de1b35ce8ef664c9998df566b51d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67450f8fd6693f0d426b4ef4b8f979d2') in 0.006938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Tiles/Expanded/Snow Auto_Expanded.asset
+  artifactKey: Guid(999ed3115e49b0348a9b160016c3b2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Expanded/Snow Auto_Expanded.asset using Guid(999ed3115e49b0348a9b160016c3b2f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a8cd65bb890f2478713765f960aa731') in 0.008930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_3.asset
+  artifactKey: Guid(66664f1dc4b47234099412513864f378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_3.asset using Guid(66664f1dc4b47234099412513864f378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '948fd23fabebf047af53b0ded037b0ae') in 0.006465 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_14.asset
+  artifactKey: Guid(b60780e3caf5c9242b3328d51ad97f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_14.asset using Guid(b60780e3caf5c9242b3328d51ad97f1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599ecd48cc8ac95008095605b641c21f') in 0.006736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_13.asset
+  artifactKey: Guid(705704a824aa22c4cabd7620f1a9230f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_13.asset using Guid(705704a824aa22c4cabd7620f1a9230f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b1eb4a5f0e8edf3c0d57cb9e87c5726') in 0.007110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_7.asset
+  artifactKey: Guid(24c8797212a13f8439d0c24c2ef99040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_7.asset using Guid(24c8797212a13f8439d0c24c2ef99040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa591cc36a4c264e66e4354757a2decb') in 0.007097 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_6.asset
+  artifactKey: Guid(70390ae466cafde439417955e470adab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_6.asset using Guid(70390ae466cafde439417955e470adab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a281ee9ea2648983bb1fdfe541004c7') in 0.006287 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_9.asset
+  artifactKey: Guid(b23fe735b23231a41a04cdbae1fa2978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_9.asset using Guid(b23fe735b23231a41a04cdbae1fa2978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c36769e1d36ec8e9c0bb8cb5ac8a84') in 0.008698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_10.asset
+  artifactKey: Guid(4d1922768a76fcb479534576b61be183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_10.asset using Guid(4d1922768a76fcb479534576b61be183) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba34916a93ed2017b3d68c903ed8759a') in 0.010609 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tiles/Example Tileset/Example Tiles.prefab
+  artifactKey: Guid(ab80ca87b1b6ebc4b87c619cfbd6c945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Example Tiles.prefab using Guid(ab80ca87b1b6ebc4b87c619cfbd6c945) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '980a073a5f3c4b9e39b9d77f57f8270c') in 0.044822 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_2.asset
+  artifactKey: Guid(f4424fdf9ad38a048a6c84604bc2edc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_2.asset using Guid(f4424fdf9ad38a048a6c84604bc2edc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d589758314d0907917595c675816ae') in 0.007708 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000346 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_8.asset
+  artifactKey: Guid(c742dad00dc06a147b80b2d057c78117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_8.asset using Guid(c742dad00dc06a147b80b2d057c78117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63abcb4a616808c64763916e25a1ff21') in 0.006874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_11.asset
+  artifactKey: Guid(0b1474f95d772de419f43d8d99719fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_11.asset using Guid(0b1474f95d772de419f43d8d99719fab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249ce97607656d6fabf689cd8778e5fd') in 0.006360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000369 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_4.asset
+  artifactKey: Guid(96cbfd58fa82db74ab8df3b46e955e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_4.asset using Guid(96cbfd58fa82db74ab8df3b46e955e94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f474859627e414277c5e47162ae3a496') in 0.006688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000297 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_5.asset
+  artifactKey: Guid(3e13e8ee340310f4ca1224e46bf6850b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_5.asset using Guid(3e13e8ee340310f4ca1224e46bf6850b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd00c85b43b5fffdd23bf49378d05a032') in 0.006481 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_0.asset
+  artifactKey: Guid(267675f2804e8f94db22db4268ec63f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_0.asset using Guid(267675f2804e8f94db22db4268ec63f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f7292bb63bff39ee0a3a79640b9cd18') in 0.006108 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_16.asset
+  artifactKey: Guid(9b6a2932f9cd67e46acfe851d4b3300a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_16.asset using Guid(9b6a2932f9cd67e46acfe851d4b3300a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ad3cb2d189e0230836a197c852e0800') in 0.009585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Tiles/Example Tileset/Tiles_Basic_1.asset
+  artifactKey: Guid(daf319ebb60c49048bc04eea1d5ee4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Example Tileset/Tiles_Basic_1.asset using Guid(daf319ebb60c49048bc04eea1d5ee4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58385fdab7be0c3df8c4e19d7a6ae804') in 0.006586 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
